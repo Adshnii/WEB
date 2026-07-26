@@ -89,10 +89,11 @@ Manage → Advanced DNS (записи) и вкладка Domain → Redirect Ema
 ## 8. Что ещё не сделано (план)
 
 - [ ] Активировать форму (нажать Confirm в письме от FormSubmit) — **вручную**
-- [ ] Google Search Console: подтвердить домен, отправить sitemap
+- [x] Google Search Console: домен подтверждён (TXT-запись в DNS — не удалять!),
+      sitemap отправлен, главная проиндексирована (25.07.2026)
+- [x] Google Business Profile: Website → solvixcompany.com (25.07.2026)
+- [x] Сайт добавлен в профиль Facebook (25.07.2026)
 - [ ] Google Analytics 4 (опционально)
-- [ ] Google Business Profile: поле Website сменить с Facebook на сайт
-- [ ] Добавить сайт в профиль Facebook
 - [ ] Отправка писем «от имени» info@ (нужен Private Email ~$15/год или Zoho) — если понадобится
 
 ## 9. История изменений
@@ -101,3 +102,4 @@ Manage → Advanced DNS (записи) и вкладка Domain → Redirect Ema
 |---|---|
 | 24.07.2026 | Домен куплен; DNS настроен; сайт опубликован; HTTPS включён; почта info@ настроена |
 | 25.07.2026 | Правовые страницы (Privacy/Terms/Accessibility); LocalBusiness-разметка; sitemap; robots; этот README |
+| 25.07.2026 | Search Console: домен подтверждён (TXT), sitemap принят, главная в индексе Google; GBP Website → сайт; сайт в профиле Facebook |
